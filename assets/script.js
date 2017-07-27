@@ -1,0 +1,1 @@
+var x=6,y=28;console.log("Hello World from Main Javascript"),console.log("Hola Mundo");
